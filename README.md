@@ -18,3 +18,8 @@ code by python
 - 1차원 배열
 - 함수
 - 문자열 - 1~9
+
+###2020/07/31 12:02 clear contents
+
+- python 문법 정리
+- goorm 문제 풀이
